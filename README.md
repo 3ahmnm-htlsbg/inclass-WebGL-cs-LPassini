@@ -39,4 +39,6 @@ Generate and use random numbers
 Use a script in combination with a button
 Build for the WebGL platform
 Publish a WebGL project on GitHub Pages via folder docs
+
+the original README is copyed by smeerws
 Copyright by LPassini 
